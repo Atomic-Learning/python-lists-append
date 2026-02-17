@@ -1,0 +1,20 @@
+{
+    "title": "Python: Lists - append Method",
+    "slug": "python-lists-append",
+    "description": "Adding items to the end of a list using the .append() method.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python"
+    ],
+    "duration": 4,
+    "prerequisites": [
+        "python-lists-introduction",
+        "python-methods",
+        "python-none"
+    ],
+    "related": [
+        "python-lists-insert"
+    ]
+}

@@ -1,0 +1,29 @@
+
+<p>The <code class="language-python">append</code> method belongs to the <code class="language-python">list</code> type in Python and is used to add a single item to the end of a list.</p>
+
+<h2>Basic <code class="language-python">append</code> Usage</h2>
+
+<p>Create a list and add items to the end:</p>
+
+<py-cell>fruits = ["apple", "banana"]
+print(fruits)
+
+fruits.append("orange")
+print(fruits)
+
+fruits.append("grape")
+print(fruits)</py-cell>
+
+<h2><code class="language-python">append</code> Modifies the Original List</h2>
+
+<p>Important: <code class="language-python">append</code> doesn't return a new list—it modifies the original list in place:</p>
+
+<py-cell>my_list = [1, 2, 3]
+result = my_list.append(4)
+
+print(my_list)
+print(result)</py-cell>
+
+<h2>Return Value</h2>
+
+<p><code class="language-python">append</code> always returns <code class="language-python">None</code>. As such, you do not normally need to capture its return value in a variable.</p>
