@@ -8,7 +8,7 @@
     "tags": [
         "python"
     ],
-    "duration": 4,
+    "duration": 2,
     "prerequisites": [
         "python-lists-introduction",
         "python-methods",
